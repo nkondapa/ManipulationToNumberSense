@@ -8,3 +8,4 @@
 !*.txt
 !*.ipynb
 !pip_requirements.txt
+!*.md
