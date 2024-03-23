@@ -1,0 +1,10 @@
+*ubyte
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.py
+!*.txt
+!*.ipynb
+!pip_requirements.txt
