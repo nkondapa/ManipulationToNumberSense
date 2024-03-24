@@ -1,6 +1,6 @@
 # A number sense as an emergent property of the manipulating brain
 
-[[Paper]](https://www.nature.com/articles/s41598-024-56828-2) [[ArXiv]](https://arxiv.org/abs/2012.04132) [[`BibTeX`](#Citing)]
+[[Paper]](https://www.nature.com/articles/s41598-024-56828-2) [[ArXiv]](https://arxiv.org/abs/2012.04132) [[Data]](https://data.caltech.edu/records/achmg-dc274) [[`BibTeX`](#Citing)]
 
 
 ## Environment setup
