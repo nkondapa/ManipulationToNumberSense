@@ -1,6 +1,6 @@
 # A number sense as an emergent property of the manipulating brain
 
-[[Paper]](https://www.nature.com/articles/s41598-024-56828-2)[[ArXiv]](https://arxiv.org/abs/2012.04132)
+[[Paper]](https://www.nature.com/articles/s41598-024-56828-2) [[ArXiv]](https://arxiv.org/abs/2012.04132) [[`BibTeX`](#Citing)]
 
 
 ## Environment setup
@@ -32,3 +32,16 @@ Each scripts analyzes a different experiment.
 
 The plotting scripts are in the /figures_creation folder. <br>
 ```python /figures_creation/{figure_name}.py``` <br>
+
+## Citing
+```
+@article{nkondapa2024emergent,
+  title={A number sense as an emergent property of the manipulating brain},
+  author={Kondapaneni, Neehar and Perona, Pietro},
+  journal={Scientific reports},
+  volume={14},
+  number={6858},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
